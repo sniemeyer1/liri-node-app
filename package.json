@@ -1,0 +1,32 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sniemeyer1/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sniemeyer1/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/sniemeyer1/liri-node-app#readme",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "dotenv": "^6.0.0",
+    "figlet": "^1.2.0",
+    "liri": "^1.0.1",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "require": "^2.4.20",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {}
+}
